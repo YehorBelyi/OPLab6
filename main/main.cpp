@@ -20,6 +20,8 @@ int main()
     */
     
     // Код після зміни для перевірки на Github
+    // fsahfalkhflwhlf
+    // dfhgsdhghsgweighiow0
     for (x = a; x <= b; x += h) {
         y = sin(x) + fabs(x) + pow(2, x);
         cout << "If x = " << x << ", then y = " << y << endl;
